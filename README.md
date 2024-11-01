@@ -1,11 +1,8 @@
 # Mini Spotify
-A music webpage which allow you to hear a bunch of different music and directly save your favorite music to your Spotify playlist. Also, you can visit or create your Spotify account directly by clicking on the Spotify icon.
+A music webpage that allows you to hear a bunch of different music and directly save your favorite music to your Spotify playlist. Also, you can visit or create your Spotify account directly by clicking on the Spotify icon.
 
 
 https://github.com/WednesdaySP/Web-Development-Projects-minor-/assets/122176467/311faa82-c159-43b0-ab25-57605254f4e3
-
-
-
 
 
 
